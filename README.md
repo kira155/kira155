@@ -1,149 +1,107 @@
+# Hi, I'm Abdul Kholik 👋
 
-<h1 align="center">Hi, I'm Abdul Kholik 👋</h1>
-<h3 align="center">Process Engineer | Software Developer | Production Digitalization</h3>
+### Staff Process Engineer · Manufacturing Digitalization · Web Development
 
-<p align="center">
-  <a href="https://kira155.github.io/abdul-kholik-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/kira155">
-    <img src="https://img.shields.io/badge/GitHub-kira155-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Turning shop-floor challenges into practical, data-driven digital solutions.**
+
+[🌐 Visit My Portfolio](https://kira155.github.io/abdul-kholik-portofolio/) · [💼 LinkedIn](https://www.linkedin.com/in/abdulkholik15/) · [💻 GitHub](https://github.com/kira155)
+
+📍 Jakarta, Indonesia | 🏭 Computer Manufacturing | 💻 Engineering × Software
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Process Engineer with a strong interest in software development,
-production systems, and data-driven process improvement.
+I'm a **Staff Process Engineer at PT Tera Data Indonusa (Axioo)** with hands-on experience in production operations, quality control, technical troubleshooting, and process improvement.
 
-My focus is on building practical digital solutions that simplify
-manufacturing operations, improve productivity, and provide better
-visibility into production performance.
+I combine **manufacturing knowledge, data analysis, and software development** to build tools that help production teams work more consistently, identify issues earlier, and make decisions with clearer operational data.
 
-- 🏭 Process standardization, SOP & Work Instruction development
-- 📊 Cycle time analysis, line balancing, and capacity planning
-- 💻 Developing internal web applications for production operations
-- 📈 Production monitoring, KPI dashboards, and data analysis
-- 🔧 Root Cause Analysis (RCA) and continuous improvement
-- 🌱 Continuously learning software engineering and industrial digitalization
+- 🏭 **Process Engineering:** Cycle-time analysis, line balancing, capacity, standardization, and work instructions.
+- 📊 **Production Intelligence:** Output, target achievement, defects, WIP, rework, and KPI monitoring.
+- 💻 **Internal Applications:** PHP/MySQL-based dashboards, reporting, traceability, and workflow systems.
+- 🔎 **Problem Solving:** Root-cause analysis, process trials, quality improvement, and continuous improvement.
+- 🤝 **On the Shop Floor:** Collaborating with operators, QC, technicians, and production teams to make solutions usable in daily work.
+
+**My approach:** Understand the process → Find the problem → Build a practical solution → Measure the result.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Engineering Toolkit
 
-### Programming & Web Development
+**Web Development & Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,bootstrap" />
-</p>
+PHP · MySQL · JavaScript · HTML · CSS · Bootstrap
 
-### Tools & Technologies
+**Development Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
-</p>
+Git · GitHub · Visual Studio Code · Windows
 
-**Also working with:** Microsoft Excel, Power BI, phpMyAdmin,
-XAMPP, database reporting, and production data integration.
+**Engineering & Analytics**
+
+Microsoft Excel · Power BI · XAMPP · phpMyAdmin · Production KPI Reporting · Process Mapping · Root Cause Analysis · Line Balancing
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Selected Projects
 
-### 🏭 Production Monitoring System
-A web-based solution for monitoring production output and operational
-performance.
+### 🏭 01. Production & Leader Dashboard
 
-- Production output and target monitoring
-- Performance KPI visualization
-- Production data integration
-- Operational reporting and analysis
+An operational dashboard that brings **hourly production output, targets, WIP, rework, loss time, and line performance** into one view for faster monitoring and analysis.
 
-**Technologies:** PHP Native, MySQL, Bootstrap, JavaScript
+**Technologies:** PHP · MySQL · JavaScript · Data Visualization
 
-### 📋 E-SOP & QC Tracking System
-A digital workflow for work instructions and quality control tracking.
+### 📋 02. Digital Work Instruction & Quality Traceability
 
-- Digital work instructions
-- Serial number and inspection progress tracking
-- PASS/NG status monitoring
-- Production traceability and reporting
+Digital tools for **structured work instructions, visual standards, revision control, serial-number tracking, and QC reporting**, designed around real manufacturing workflows.
 
-**Technologies:** PHP Native, MySQL, Bootstrap, JavaScript
+**Technologies:** Process Standardization · Quality Control · PHP · MySQL
 
-### 📊 Process Improvement & Line Balancing
-Production analysis focused on improving workflow efficiency and
-reducing operational losses.
+### 📦 03. Cleaning Stock Management System
 
-- Cycle time analysis
-- Workload distribution and line balancing
-- Capacity and manpower analysis
-- Defect analysis and root cause investigation
+A stock-control application supporting **material requests, incoming/outgoing transactions, stock visibility, alerts, reporting, and access control**.
 
-**Tools:** Microsoft Excel, production data, KPI reporting
+**Technologies:** Inventory Management · PHP · MySQL · Bootstrap
 
-### 🔧 Maintenance & Repair Tracking
-A web-based system for organizing maintenance and repair activities.
+### 💾 04. Clone Scanner & Storage Validation
 
-- Maintenance request tracking
-- Repair status monitoring
-- Work history and reporting
-- Operational data visibility
+A production utility supporting **storage-device detection and validation of serial number, firmware, drive health, capacity, and system information** during technical processes.
 
-**Technologies:** PHP Native, MySQL, Bootstrap
+**Technologies:** Production Automation · Hardware Validation · Technical Tools
+
+### More Engineering & Digitalization Work
+
+- **Repair Flow Dashboard:** Visibility into repair movement and pending work.
+- **IPQC & OQC Quality Dashboards:** Findings, defect categories, trends, and quality reporting.
+- **Maintenance Summary:** Equipment status, inspection activities, and follow-up tracking.
+- **Manpower Cost & Production KPI Analysis:** Operational performance and cost visibility.
+- **Process Improvement & Line Balancing:** Workload analysis, capacity, and process optimization.
+
+[View All Projects & Case Studies →](https://kira155.github.io/abdul-kholik-portofolio/#projects)
 
 ---
 
-## 📈 GitHub Statistics
+## 📸 Engineering Beyond the Screen
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kira155&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira155&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Most used languages"
-  />
-</p>
+I also work directly with production teams—sharing technical knowledge, explaining process tools, and translating engineering standards into clear shop-floor practices.
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=kira155&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
+[Explore My Shop-Floor Documentation →](https://kira155.github.io/abdul-kholik-portofolio/#fieldwork)
 
 ---
 
-## 🎯 What I Do
+## 📈 GitHub Activity
 
-| Area | Focus |
-|---|---|
-| Process Engineering | Standardization, SOP, Work Instructions |
-| Production Engineering | Cycle time, capacity, line balancing |
-| Software Development | Internal web applications |
-| Data Analysis | KPI, output, defects, operational reports |
-| Digitalization | Production monitoring and traceability |
-| Continuous Improvement | RCA, efficiency, cost reduction |
+Explore my development activity and public repositories on [GitHub](https://github.com/kira155).
+
+*Public repositories reflect only part of my work. Internal manufacturing systems are documented through selected portfolio case studies.*
 
 ---
 
 ## 🤝 Let's Connect
 
-<p>
-  <a href="https://github.com/kira155">
-    <img src="https://img.shields.io/badge/GitHub-kira155-181717?style=flat&logo=github" />
-  </a>
-  <a href="https://kira155.github.io/abdul-kholik-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Abdul%20Kholik-blue?style=flat&logo=googlechrome" />
-  </a>
-</p>
+I'm interested in **process improvement, production engineering, manufacturing digitalization, and software tools that solve real operational problems**.
 
-<p align="center">
-  <i>"Turning production challenges into practical digital solutions."</i>
-</p>
+- 🌐 **Portfolio:** [View My Work](https://kira155.github.io/abdul-kholik-portofolio/)
+- 💼 **LinkedIn:** [Abdul Kholik](https://www.linkedin.com/in/abdulkholik15/)
+- 💻 **GitHub:** [@kira155](https://github.com/kira155)
+
+**"Measure the process. Simplify the work. Improve the outcome."**
